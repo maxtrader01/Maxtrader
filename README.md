@@ -1,1 +1,0 @@
-Add your uploaded photo as profile.jpg then enable GitHub Pages.
