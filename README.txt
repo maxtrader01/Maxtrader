@@ -1,0 +1,1 @@
+Keep image name as profile.JPG
