@@ -1,0 +1,1 @@
+Place your image as Profile.JPG in this folder.
